@@ -1,0 +1,11 @@
+{
+    "geode": "v5.10.1",
+    "gd": {
+        "android": "2.2081"
+    },
+    "id": "gd1020ky.sm-macro",
+    "name": "SM Macro",
+    "version": "v0.1.0",
+    "developer": "gd1020ky",
+    "description": "High-accuracy frame-based macro recorder and playback foundation."
+}
